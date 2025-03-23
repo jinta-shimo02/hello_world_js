@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["jinta-shimo02"]
   spec.email = ["jinjinnbaaahi.0514@icloud.com"]
 
-  spec.summary = "TODO: hello_worldするだけのgemです"
-  spec.description = "TODO: gemを作り方を学ぶために作成しました"
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "hello_worldするだけのgemです"
+  spec.description = "gemを作り方を学ぶために作成しました"
+  spec.homepage = "https://github.com/jinta-shimo02/hello_world_js"
   spec.required_ruby_version = ">= 2.6.0"
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
